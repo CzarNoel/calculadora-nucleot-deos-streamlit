@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run --server.enableCORS false dna-app.py
+web: sh setup.sh && streamlit run dna-app.py
